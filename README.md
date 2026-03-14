@@ -1,6 +1,5 @@
 <html>
 </head>
-<title>Animated Movies</title>
 <body>
   <h1>Victoria Mantela</h1>
   <img src="https://raw.githubusercontent.com/skittylee/GithubProject/main/cutephoto!!!.jpg" alt="Picture of a very esteemed 18 year old woman">
