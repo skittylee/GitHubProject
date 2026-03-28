@@ -1,0 +1,47 @@
+h1{
+
+    color: rgb(229, 111, 235);
+}
+h2, h3 {
+  margin-top: 20px;
+}
+
+body {
+  background-color: #c7a2ff;
+  color: #2c2c2c;
+}
+
+h2 {
+  color: #3c135e;
+}
+
+h3 {
+  color: #9932cc;
+}
+
+a {
+  color: #6a0dad;
+}
+
+a:hover {
+  color: #362045;
+}
+h2, h3 {
+  margin-top: 20px;
+}
+
+p, h3 + *, h2 + * {
+  border: 5px solid rgb(157, 244, 255);
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 5px;
+  background-color: aliceblue;
+}
+/* List border */
+ul {
+  display: inline-block;
+  border: 2px solid #9932cc;
+  padding: 10px 20px;
+  border-radius: 5px;
+  background-color: #ffffff;
+}
